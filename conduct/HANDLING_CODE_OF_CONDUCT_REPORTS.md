@@ -8,7 +8,7 @@ This process covers two types of reports based on the [Foundation's Code of Cond
 
 Generally, reports to coc-escalation should refer to a report that was already submitted to:
 
-* report@openjsf.org or
+* Email: report@openjsf.org or
 * one of the project's reporting emails
 * explanation of why the reporter does not feel comfortable using the previous reporting emails for the initial report
 
